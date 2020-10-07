@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98866940872",
+    "firebase_url": "https://grip-8d131.firebaseio.com",
+    "project_id": "grip-8d131",
+    "storage_bucket": "grip-8d131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98866940872:android:2cb460f91f5b26ff074efd",
+        "android_client_info": {
+          "package_name": "com.example.grip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98866940872-b3gu13grrgh09tt9k4epj98q5ejummne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZOg4MBqWrzM0JYxA-FWJXBhL59GufLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98866940872-b3gu13grrgh09tt9k4epj98q5ejummne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
